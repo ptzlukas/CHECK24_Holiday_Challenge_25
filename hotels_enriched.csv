@@ -1,0 +1,999 @@
+hotelid,hotelname,hotelstars,lat,lon,address
+1,Iberostar Playa de Muro,4.0,39.8118429,3.1163385,"Iberostar Waves Alcudia Park, 30, Avinguda de s'Albufera, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+2,Prinsotel La Pineda,4.0,,,
+3,BlueSea Gran Playa,3.0,,,
+4,Grupotel Gran Vista & Spa,4.0,39.7653589,3.1472249,"Grupotel Gran Vista & Spa, Carrer Llevant, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+5,Playa Esperanza Hotel,4.0,39.8028119,3.1192318,"Playa Esperanza Resort, 4, Avinguda de s'Albufera, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+6,Hotel Cala d'Or,4.0,,,
+7,Valentin Paguera,3.0,39.5388836,2.4529770,"Valentin Reina Paguera, 1, Carrer de Mallorca, Peguera, Calvià, Serra de Tramuntana, Illes Balears, 07160, España"
+8,Hotel Vibra Beverly Playa,4.0,,,
+9,Bonsol Hotel Resort & Spa,5.0,,,
+10,Bon Aire Apartments,1.0,,,
+11,Hotel Carabela,3.0,,,
+12,Alua Gran Camp de Mar,4.0,,,
+13,Fergus Club Europa,4.0,,,
+14,Hilton Mallorca Galatzo,4.0,,,
+15,Bahia del Sol,4.0,,,
+16,Hotel y Apartamentos Casablanca,3.0,,,
+17,Gaya,3.0,39.6150614,3.1104092,"Gaya, Plaça de sa Rectoria, Petra, Pla de Mallorca, Illes Balears, 07520, España"
+18,Holiday Center,3.0,,,
+19,Grupotel Nilo & Spa,4.0,,,
+20,allsun Hotel Paguera Park,4.0,,,
+21,H10 Blue Mar,4.0,,,
+22,Globales Pionero,4.0,,,
+23,Meliá Palma Marina,4.0,39.5645571,2.6272783,"Meliá Palma Marina, 29, Carrer de l'Aigua Dolça, El Terreno, Palma, Illes Balears, 07014, España"
+24,Club Santa Ponsa ,3.0,,,
+25,BQ Bulevar Peguera Hotel,4.0,,,
+26,Roc Illetas Hotel,4.0,,,
+27,Iberostar Selection Jardín del Sol Suites,4.0,,,
+28,Globales Santa Ponsa Park,4.0,,,
+29,HSM Solivera Hotel,4.0,,,
+30,Hotel Son Caliu Spa Oasis,4.0,,,
+31,Tora,3.0,,,
+32,Venecia,3.0,39.5802694,2.6548633,"Venecia, 42, Carrer de l'Arxiduc Lluís Salvador, s'Olivera, Palma, Illes Balears, 07004, España"
+33,Secrets Mallorca Villamil Resort & Spa,5.0,,,
+34,Villa Columbus,2.0,,,
+35,Hostal Residencia Sutimar,3.0,,,
+36,Mar Hotels Paguera & Spa and Apartments,4.0,,,
+37,Hostal Villa Rosa,3.0,,,
+38,Hotel Bonanza Park,4.0,,,
+39,Hotel Palace Bonanza Playa & SPA,4.0,,,
+40,Ponent Apartamentos,3.0,,,
+41,Ponent Mar,4.0,,,
+42,Sentido Fido Punta del Mar,4.0,,,
+43,Flor Los Almendros Apartments,2.0,,,
+44,Valentin Reina Paguera Hotel,4.0,39.5388836,2.4529770,"Valentin Reina Paguera, 1, Carrer de Mallorca, Peguera, Calvià, Serra de Tramuntana, Illes Balears, 07160, España"
+45,Globales Playa Santa Ponsa,3.0,,,
+46,Plazamar Serenity Resort ,3.0,,,
+47,Be Live Experience Costa Palma,4.0,,,
+48,La Pérgola Aparthotel,4.0,,,
+49,HSM Linda Playa,3.0,,,
+50,Los Tilos Aparthotel,2.0,,,
+51,Hotel Palmira Paguera & Suites,4.0,,,
+52,BQ Paguera Boutique Hotel ,4.0,,,
+53,Universal Aparthotel Don Camilo,4.0,,,
+54,Sol House The Studio - Calvia Beach,4.0,,,
+55,Tomir Portals Suites,4.0,,,
+56,Hotel Bahia,4.0,39.7668127,3.1542176,"Hotel Gran Bahía, 1, Carrer de l'Almirall Cervera, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+57,Bon Repos,2.0,,,
+58,Zafiro Palmanova,4.0,,,
+59,Sheraton Mallorca Arabella Golf Hotel,5.0,39.5871089,2.5990517,"Sheraton Mallorca Arabella Golf Hotel, Carrer de Vinagrella, Son Vida, Palma, Illes Balears, 07011, España"
+60,Brismar,3.0,,,
+61,Globales Cala Viñas,4.0,,,
+62,Cupido Boutique Hotel,3.0,,,
+63,Paguera Beach,4.0,,,
+64,Maria Eugenia Pension,5.0,,,
+65,Hotel de Mar Gran Melia,5.0,,,
+66,Flor Los Almendros Hotel,3.0,,,
+67,Gran Meliá Victoria,5.0,39.5636131,2.6265825,"Gran Meliá Victòria, 21, Avinguda de Joan Miró, El Terreno, Palma, Illes Balears, 07014, España"
+68,Miranda,2.0,39.5984285,2.6287524,"Miranda, Carrer d'Asival, Can Valero, es Secar de la Real, Palma, Illes Balears, 07011, España"
+69,Hotel Palmira Paradise & Suites,4.0,,,
+70,allsun Hotel Bella Paguera,5.0,,,
+71,allsun Hotel Cormoran,5.0,,,
+72,Sol Wave House All Suites,4.0,,,
+73,Zafiro Rey Don Jaime,4.0,,,
+74,Grupotel Aguait Resort & Spa,4.0,,,
+75,Prinsotel Alba,4.0,,,
+76,Alcina,1.0,39.5767538,2.6734384,"Plaça del Fra Joan Alcina, Son Gotleu, Palma, Illes Balears, España"
+77,Alondra,3.0,,,
+78,Amoros,3.0,39.5541825,2.6182107,"Carrer del Gabriel Tous Amorós, es Corb Marí, Portopí, Palma, Illes Balears, 07014, España"
+79,Globales América,4.0,39.4590017,3.2795691,"Globales América, Carrer Formentor, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07689, España"
+80,Gavimar Ariel,3.0,,,
+81,Protur Atalaya Apartamentos,3.0,,,
+82,allsun Hotel Bahia del Este,5.0,,,
+83,Hotel Bella Mar,3.0,,,
+84,Bella Playa Hotel & Spa,4.0,,,
+85,Hotel Cala Gat,4.0,,,
+86,Guya Wave Hotel,3.0,,,
+87,THB Cala Lliteras,4.0,,,
+88,Club Hotel Cala Ratjada,3.0,,,
+89,Baviera,3.0,39.5795005,2.6525457,"Baviera, Carrer del 31 de desembre, Canavall, Palma, Illes Balears, 07003, España"
+90,Capricho,3.0,41.1146535,1.2461551,"El Capricho, 16, Carrer Mallorca, Nou Eixample Sud, Tarragona, Tarragonès, Tarragona, Catalunya, 43005, España"
+91,Singular Cala Ratjada,2.0,,,
+92,Clumba,3.0,,,
+93,Diamant Hotels,3.0,,,
+94,THB Dos Playas,3.0,,,
+95,Paradise Residencial,3.0,,,
+96,Hostal Gami                   ,1.0,,,
+97,THB Guya Playa,4.0,,,
+98,allsun Hotel Lux de Mar,4.0,,,
+99,Mar Azul Pur Estil Hotel & Spa,4.0,,,
+100,Bell Port,3.0,,,
+101,Parque Nereida Suites Hotel,3.0,,,
+102,HSM Regana,4.0,,,
+103,Quijote Park,3.0,,,
+104,Marbel,2.0,39.5369696,2.7169558,"Marbel, Avinguda Central, Can Pastilla, Palma, Illes Balears, 07610, España"
+105,Hotel & Spa S'Entrador Playa ,4.0,,,
+106,Serrano Palace,5.0,,,
+107,Protur Turó Pins Hotel,4.0,,,
+108,Chevy Hotel & Suites,3.0,,,
+109,Vistasol,2.0,,,
+110,D-H Anba Romani Hotel,3.0,,,
+111,Hipotels Bahía Grande,4.0,,,
+112,Biniamar,3.0,39.5821452,2.6813662,"Biniamar, Carrer de Biniamar, Es Rafal, Palma, Illes Balears, 07008, España"
+113,allsun Hotel Borneo,5.0,,,
+114,Hipotels Cala Millor Park,4.0,,,
+115,Marins Beach Club,4.0,,,
+116,CM Castell de Mar,4.0,,,
+117,Aparthotel Ciudad Laurel,3.0,,,
+118,Hipotels Don Juan,3.0,,,
+119,Hipotels Dunas Cala Millor,4.0,,,
+120,Hipotels Flamenco,4.0,,,
+121,Hotel Girasol ,4.0,39.6672701,3.0737561,"Casa Girasol, carrer Sant Rafel, Maria de la Salut, Pla de Mallorca, Illes Balears, 07519, España"
+122,Kyrat Amàrac,4.0,,,
+123,Hipotels Hipocampo,4.0,,,
+124,Hipotels Hipocampo Playa,4.0,,,
+125,BlueSea Cala Millor,3.0,,,
+126,Hoteles & Apartamentos La Santa Maria,3.0,,,
+127,Hotel Marins Playa,4.0,,,
+128,Hipotels Mercedes,3.0,,,
+129,R2 Cala Millor Beach Apartments,3.0,,,
+130,Hotel Ilusion Moreyo,1.0,,,
+131,Hotel Apartamentos Morito,3.0,,,
+132,CM Playa del Moro,4.0,,,
+133,Sabina Playa,4.0,,,
+134,Hipotels Said,4.0,,,
+135,allsun Hotel Sumba,5.0,,,
+136,Ilusion Vista Blava,3.0,,,
+137,Voramar,3.0,39.5477987,2.6966668,"Voramar, Carrer de Josep Malberti, es Coll d'en Rabassa, Palma, Illes Balears, 07007, España"
+138,Inturotel Cala Azul,3.0,,,
+139,Blue Sea Club Martha´s Resort,4.0,,,
+140,Inturotel Esmeralda Park,3.0,,,
+141,Gavimar La Mirada Club Resort,3.0,,,
+142,Barceló Illetas Albatros,4.0,,,
+143,Cupidor,3.0,,,
+144,Hotel Morlans,5.0,,,
+145,Hotel Diamante,2.0,,,
+146,FERGUS Style Cala Blanca Suites,5.0,,,
+147,Hostal Neptuno,3.0,,,
+148,Be Live Adults Only Marivent,4.0,,,
+149,FERGUS Style Tobago,5.0,,,
+150,Villa Cati,2.0,,,
+151,JS Yate,4.0,,,
+152,Hotel Morlans Garden,3.0,,,
+153,allsun Hotel Paguera ,4.0,,,
+154,Sol Palmanova,4.0,,,
+155,Sol Guadalupe,4.0,,,
+156,Grupotel Acapulco Playa,4.0,39.5220968,2.7394367,"Acapulco Playa, 2, Carrer de la Costa Brava, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+157,Indico Rock,4.0,39.5091838,2.7549847,"Indico Rock, Carrer Antas de Ulla, s'Arenal, Son Verí, Ses Cadenes, Illes Balears, 07600, España"
+158,HM Balanguera Beach,4.0,,,
+159,BQ Hotel Amfora Beach Hotel,4.0,,,
+160,Hotel BQ Apolo,4.0,,,
+161,Hotel Aya,4.0,39.5108271,2.7497161,"AYA Seahotel – Adults Only, carretera de s'Arenal, Les Meravelles, Palma, Illes Balears, 07600, España"
+162,HM Ayron Park,5.0,,,
+163,azuline Hotel Bahamas & Bahamas II,3.0,,,
+164,Balear,3.0,39.5670113,2.6286841,"Balear, Carrer de Federico García Lorca, Son Armadans, Palma, Illes Balears, 07014, España"
+165,Ipanema Beach,3.0,,,
+166,Hotel Vibra Palma Cactus,3.0,39.5242469,2.7416272,"Hotel Vibra Palma Cactus, Carrer de Veracruz, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+167,tent Capi Playa,3.0,39.5226243,2.7400390,"tent Capi Playa, 4, Carrer de la Costa Brava, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+168,BQ Carmen Playa Hotel,3.0,,,
+169,Villa Chiquita,4.0,,,
+170,Nura Condor,3.0,39.5220543,2.7450412,"Cóndor, Passeig Vicenç Ferrer, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+171,Hotel Cosmopolitan,4.0,39.5234516,2.7461267,"Cosmopolitan, carrer de la Mar Blanca, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+172,allsun Hotel Cristobal Colon,4.0,,,
+173,Universal Grand León & Spa,5.0,,,
+174,Don Miguel Playa Hotel,3.0,,,
+175,HM Dunas Blancas,4.0,,,
+176,THB El Cid,4.0,39.5347692,2.7223584,"El Cid, 2, Carrer del Vaixell, Can Pastilla, Palma, Illes Balears, 07610, España"
+177,El Coto,4.0,,,
+178,Hotel Príncipe,4.0,39.5216255,2.7422170,"Príncipe, Avinguda de Son Rigo, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+179,allsun Hotel Marena Beach,4.0,,,
+180,Apartments Es Trenc,3.0,,,
+181,MySeaHouse Hotel Flamingo,5.0,,,
+182,Aparthotel Fontanellas Playa,4.0,39.5320552,2.7267637,"Aparthotel Fontanellas Playa, carrer de la Caravel·la, Can Pastilla, Palma, Illes Balears, 07610, España"
+183,Pure Salt Garonda,5.0,,,
+184,tent Playa de Palma,3.0,39.5097641,2.7552083,"tent Playa de Palma, carrer dels Tamarells, s'Arenal, Son Verí, Palma, Illes Balears, 07600, España"
+185,HSM Golden Playa,4.0,39.5286334,2.7317850,"HSM Golden playa, 14, Carrer de Marbella, Les Meravelles, Palma, Illes Balears, 07610, España"
+186,HM Gran Fiesta,4.0,39.5253134,2.7358325,"Gran Fiesta, Carrer de Marbella, Les Meravelles, Palma, Illes Balears, 07610, España"
+187,Hispania,4.0,39.5104132,2.7501774,"Hispania, 3, carrer Aiguamarina, s'Arenal, Son Verí, Palma, Illes Balears, 07600, España"
+188,Hotel Foners,3.0,39.5175853,2.7461338,"Foners, carrer de les Canyes, Les Meravelles, Ses Cadenes, Illes Balears, 07600, España"
+189,Ipanema Park,3.0,,,
+190,Isla de Cabrera Aparthotel,4.0,,,
+191,Jade,3.0,,,
+192,Kilimanjaro,3.0,,,
+193,allsun Hotel Kontiki Playa,4.0,,,
+194,Cook's Club Palma Beach,3.0,,,
+195,Leblon,1.0,,,
+196,Leman,4.0,39.5211536,2.7414957,"Léman, Avinguda de Son Rigo, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+197,Alua Leo,4.0,39.5342151,2.7243853,"Alua Leo, 12, Carrer Manuela de los Herreros, Can Pastilla, Palma, Illes Balears, 07610, España"
+198,Seramar Luna Park,3.0,,,
+199,Hotel Luxor,4.0,39.5228930,2.7430953,"Luxor, Avinguda de Son Rigo, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+200,AluaSoul Palma,4.0,39.5370845,2.7096824,"AluaSoul Palma, 40, carrer d'Eaktai Ahn, Can Pastilla, Palma, Illes Balears, 07610, España"
+201,Manaus,3.0,,,
+202,Hotel Marbel,3.0,39.5369696,2.7169558,"Marbel, carrer de la Singladura, Can Pastilla, Palma, Illes Balears, 07610, España"
+203,THB Maria Isabel,4.0,39.5237944,2.7419804,"Maria Isabel, 19, Carrer de Vilagarcía de Arousa, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+204,Martorell,3.0,39.5536688,2.6918628,"Ciutat Jardí, Palma, Illes Balears, 07007, España"
+205,BLUESEA Mediodia,3.0,,,
+206,Hotel Marina Playa,3.0,,,
+207,Metropolitan Playa Hotel,5.0,39.5229084,2.7464158,"Metropolitan Playa, Passeig Vicenç Ferrer, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+208,whala!fun,4.0,,,
+209,Hotel Negresco,4.0,39.5258394,2.7351508,"Negresco, Carrer de Neopàtria, Les Meravelles, Palma, Illes Balears, 07610, España"
+210,Universal Hotel Neptuno,4.0,39.5142994,2.7471018,"Universal Hotel Neptuno – Adults Only, 34, Carrer del Llaüt, Les Meravelles, Palma, Illes Balears, 07600, España"
+211,Niagara,4.0,39.5173607,2.7463822,"Niàgara, carrer de les Canyes, Les Meravelles, Ses Cadenes, Illes Balears, 07600, España"
+212,Hotel Oleander,3.0,39.5258551,2.7376360,"Oleander, Carrer d'Atenes, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+213,MLL Mediterranean Bay,4.0,,,
+214,Grupotel Orient,4.0,39.5144277,2.7530380,"Orient, carrer de Miquel Estelrich, s'Arenal, Ses Cadenes, Illes Balears, 07600, España"
+215,Pabisa Orlando  ,3.0,39.5183251,2.7474035,"Pabisa Orlando, 15, carrer de les Canyes, Les Meravelles, Ses Cadenes, Illes Balears, 07610, España"
+216,JS Palma Stay,4.0,,,
+217,Paradiso Garden Hotel,4.0,39.5121511,2.7511210,"Paradiso Garden, carrer de Montemar, s'Arenal, Ses Cadenes, Illes Balears, 07600, España"
+218,allsun Hotel Pil·larí Playa,5.0,,,
+219,Hotel Playa Golf,4.0,39.5162076,2.7456738,"Playa Golf, Carrer d'Agustí Catany, Les Meravelles, Ses Cadenes, Illes Balears, 07600, España"
+220,Planet One Hotel,3.0,39.5079159,2.7516591,"Planet One Hotel, 26, carrer del Germà Bianor, s'Arenal, Son Verí, Palma, Illes Balears, 07600, España"
+221,HSM Reina del Mar,3.0,,,
+222,HSM Son Veri,3.0,,,
+223,Pabisa Bali Tower,4.0,,,
+224,Hotel Riu Bravo,4.0,39.5156012,2.7476776,"Hotel Riu Bravo, 4, Carrer de la Missió de San Diego, Les Meravelles, Ses Cadenes, Illes Balears, 07610, España"
+225,Hotel BG Caballero,4.0,39.5272576,2.7360243,"Caballero, Carrer de la Fotja, Les Meravelles, Palma, Illes Balears, 07610, España"
+226,Hotel Pabisa Chico,4.0,39.5199533,2.7475440,"Pabisa Chico, Camí de les Meravelles, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+227,Hotel Riu Concordia,4.0,39.5179119,2.7456647,"Riu Concordia, 8, Camí de les Meravelles, Les Meravelles, Palma, Illes Balears, 07610, España"
+228,Hotel Riu Festival,4.0,39.5192308,2.7463802,"Riu Festival, 7, Camí de les Meravelles, Les Meravelles, Palma, Illes Balears, 07610, España"
+229,Obelisco,4.0,39.5185913,2.7467268,"Obelisco, Camí de les Meravelles, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+230,Hotel Riu Playa Park,3.0,39.5190213,2.7482825,"Hotel Riu Playa Park, 15, Carrer del Pare Bartomeu Salvà, Les Meravelles, Palma, Illes Balears, 07610, España"
+231,Hotel Riu San Francisco,4.0,39.5169348,2.7452908,"Riu San Francisco, 24, Carrer del Llaüt, Les Meravelles, Ses Cadenes, Illes Balears, 07610, España"
+232,Pabisa Sofia,5.0,39.5195749,2.7460044,"Pabisa Sofía, 14, Carrer de Sant Ramon Nonat, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+233,Riutort,3.0,39.5079995,2.7537668,"Riutort, Carrer Bartomeu Calafell, s'Arenal, Son Verí, Ses Cadenes, Illes Balears, 07600, España"
+234,allsun Hotel Riviera Playa,4.0,,,
+235,Iberostar Cristina,4.0,39.5240998,2.7399083,"Iberostar Waves Cristina, Carrer de Bartomeu Xamena, Les Meravelles, Palma, Illes Balears, 07610, España"
+236,Iberostar Bahía de Palma,4.0,39.5242379,2.7369872,"Iberostar Waves Bahía de Palma, 32, Carrer de Marbella, Les Meravelles, Palma, Illes Balears, 07610, España"
+237,Iberostar Selection Playa de Palma,5.0,39.5231754,2.7382317,"Iberostar Selection Playa de Palma, 36, Carrer de Marbella, Les Meravelles, Palma, Illes Balears, 07610, España"
+238,MLL Caribbean Bay,0.0,,,
+239,Cassandra,2.0,,,
+240,Hotel Java,4.0,39.5336153,2.7262974,"Hotel Java (Can Pastilla), Carrer Manuela de los Herreros, Can Pastilla, Palma, Illes Balears, 07610, España"
+241,Hotel Timor,4.0,39.5126231,2.7507137,"Timor, Carrer dels Trobadors, s'Arenal, Ses Cadenes, Illes Balears, 07600, España"
+242,HM Tropical,4.0,,,
+243,THB Sur Mallorca,4.0,,,
+244,Grupotel Taurus Park,4.0,39.5132208,2.7528641,"Taurus Park, 7, Avinguda d'Amèrica, s'Arenal, Son Verí, Ses Cadenes, Illes Balears, 07600, España"
+245,Houm Nets Hotel,2.0,39.5229546,2.7419771,"Nets, Carrer de la Mar Bàltica, Les Meravelles, Es Pil·larí, Illes Balears, 07600, España"
+246,BlueSea Arenal Tower,3.0,,,
+247,Torre Azul,4.0,,,
+248,Tres Torres,2.0,39.5138723,2.7505204,"Cabot Tres Torres Apartamentos, 5, Carrer dels Trobadors, s'Arenal, Palma, Illes Balears, 07600, España"
+249,HSM Venus Playa,3.0,,,
+250,Vista Odin,3.0,39.5224348,2.7467194,"Vista Odín, Carrer de la Mar d'Aral, Les Meravelles, Palma, Illes Balears, 07610, España"
+251,Best Delta,4.0,,,
+252,Globales Maioris,4.0,,,
+253,BQ Belvedere Hotel,3.0,,,
+254,Club Cala Romani ,3.0,,,
+255,Beach Club Font de Sa Cala,4.0,,,
+256,Playa Blanca Hotel,3.0,,,
+257,Iberostar Club Cala Barca,4.0,,,
+258,Hotel Cala d’Or Gardens Mallorca,3.0,,,
+259,Hotel Cala Ferrera,3.0,,,
+260,Gavimar Cala Gran Costa del Sur,3.0,,,
+261,Hotel Club Cala Marsal,4.0,,,
+262,Zafiro Cala Mesquida,4.0,,,
+263,HSM Calas Park,3.0,39.4603226,3.2803735,"HSM Calas Park, 3, Carrer Cala Romanguera, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07689, España"
+264,Canyamel Park Hotel & Appartements,4.0,,,
+265,Universal Apartamentos Laguna Garden,3.0,,,
+266,Iberostar Pinos Park,4.0,,,
+267,BLUESEA Ses Cases d’Or,3.0,,,
+268,Pierre & Vacances Apartamentos Mallorca Cecilia,3.0,,,
+269,Insotel Cala Mandía Resort & Spa,4.0,,,
+270,Ferrer Lime Isabel,3.0,,,
+271,Condemar,1.0,,,
+272,JS Portocolom Suites,4.0,,,
+273,Hotel Club Es Talaial,3.0,,,
+274,HYB Eurocalas,3.0,39.4679485,3.2752296,"HYB Eurocalas, Carrer Cala Antena, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07689, España"
+275,Hipotels Eurotel Punta Rotja,4.0,,,
+276,THB Felip,4.0,,,
+277,MarSenses Ferrera Blanca,4.0,,,
+278,Protur Floriana Resort Aparthotel,3.0,,,
+279,Alua Suites Las Rocas,4.0,,,
+280,Lliteras Appartements,2.0,,,
+281,Hotel La Santa Maria Playa,3.0,,,
+282,Protur Vista Badía Aparthotel,4.0,,,
+283,Hotel Na Taconera Sport & Relax,3.0,,,
+284,Hotel Baluma Porto Petro,3.0,,,
+285,Peymar,3.0,,,
+286,Pinomar,2.0,,,
+287,Pinos Playa,3.0,,,
+288,Playa Dorada,3.0,,,
+289,Inturotel Esmeralda Park,3.0,,,
+290,Playamar Hotel & Apartamentos,2.0,,,
+291,Playa Mondrago,3.0,,,
+292,Playa Moreya,5.0,,,
+293,Barceló Aguamarina,4.0,,,
+294,Hotel Palia Puerto del Sol,3.0,,,
+295,MiM Mallorca,4.0,,,
+296,Blau Punta Reina Resort,4.0,,,
+297,Protur Sa Coma Playa Hotel & Spa,4.0,,,
+298,THB Sa Coma Platja,4.0,,,
+299,Hipotels Mediterráneo,4.0,,,
+300,Sabina Hotel & Suites,4.0,,,
+301,Globales Samoa,3.0,39.4604770,3.2780093,"Globales Samoa, Carrer Formentor, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07689, España"
+302,Sinfony Apartamentos,5.0,,,
+303,Monsuau Cala D´Or Boutique Hotel,4.0,,,
+304,Sentido Fido Tucan,4.0,,,
+305,Apartamentos Massanet,5.0,,,
+306,Hotel Mariant,3.0,39.5692699,3.3726893,"Mariant, 11, Carrer Tramuntana, s'Illot, Sant Llorenç des Cardassar, Llevant, Illes Balears, 07560, España"
+307,Hotel Mariant Park,4.0,39.5699600,3.3719058,"Hotel Mariant Park, 178, Avinguda de les Savines, s'Illot, Sant Llorenç des Cardassar, Llevant, Illes Balears, 07560, España"
+308,Oasis d'Or,2.0,,,
+309,Inturotel Cala Esmeralda Beach Hotel & Spa,4.0,,,
+310,Marfil Playa,4.0,,,
+311,Parque Mar,3.0,,,
+312,ROBINSON Cala Serena,4.0,,,
+313,Boutique Hostal Ventura,2.0,,,
+314,R2 Verónica Beach Hotel,3.0,,,
+315,Apartamentos Sureda,2.0,,,
+316,HSM Canarios Park,3.0,39.4699600,3.2752629,"HSM Canarios Park, 23, Carrer Cala Antena, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07689, España"
+317,Sol y Mar,3.0,,,
+318,S'Olivera Apartments,2.0,,,
+319,Iberostar Selection Albufera Park,4.0,39.7874714,3.1277142,"Iberostar Selection Albufera Park, 1, carrer de les Dunes, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+320,Iberostar Selection Albufera Playa,4.0,39.7870066,3.1286764,"Iberostar Selection Albufera Playa, Avinguda de les Platges de Muro, Alcúdia, Pla de Mallorca, Illes Balears, 07458, España"
+321,Eix Alcudia Hotel,4.0,,,
+322,Alcudia Beach Aparthotel,3.0,,,
+323,Innside by Melia Alcudia,4.0,,,
+324,Iberostar Alcudia Park,4.0,39.8118429,3.1163385,"Iberostar Waves Alcudia Park, 30, Avinguda de s'Albufera, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+325,Grupotel Alcudia Suite,4.0,,,
+326,BQ Alcudia Sun Village ,3.0,,,
+327,Grupotel Amapola,3.0,39.8117776,3.1107286,"Amapola, circuit del Llac, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07408, España"
+328,Hotel Astoria Playa,4.0,,,
+329,Bahia de Alcudia Hotel & Spa ,4.0,,,
+330,Bahia Pollensa,3.0,,,
+331,Es Bauló Petit Hotel,4.0,39.7595560,3.1591904,"Es Bauló, 28, Avenida Diagonal, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+332,BelleVue Club,3.0,,,
+333,Alua Boccaccio,4.0,,,
+334,Cala Sant Vicenç,5.0,39.5712988,2.6270131,"Passatge de la Cala de Sant Vicenç, Son Armadans, Palma, Illes Balears, 07014, España"
+335,JS Sol de Can Picafort,3.0,39.7675169,3.1514641,"Sol, Carrer Arenal, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+336,Capri,3.0,,,
+337,Carlos V Apartments,5.0,,,
+338,Iberostar Ciudad Blanca,4.0,,,
+339,BQ Can Picafort Hotel,4.0,39.7668463,3.1503346,"BQ Can Picafort, 24, Carrer Arenal, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+340,Ferrer Concord Hotel & Spa,4.0,39.7597483,3.1689414,"Ferrer Concord Hotel & Spa, 95, Carrer Isaac Peral, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+341,Globales Condes de Alcúdia,3.0,,,
+342,Hotel Condesa,4.0,,,
+343,Hotel Hoposa Daina,4.0,,,
+344,BQ Delfín Azul Hotel,4.0,,,
+345,Olive Beach Apartamentos,2.0,,,
+346,Globales Don Pedro,4.0,,,
+347,VIVA Eden Lago,4.0,,,
+348,allsun Hotel Eden Alcudia,4.0,,,
+349,Universal Aparthotel Elisa,4.0,39.8132579,3.1110858,"Universal Aparthotel Elisa, 1, circuit del Llac, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+350,Hotel Es Molí,4.0,,,
+351,Hotel Es Port,4.0,,,
+352,Exagon Park,4.0,39.7559975,3.1656275,"Exagon Park, Ronda del Torrent, Son Bauló, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+353,Grupotel Farrutx,4.0,39.7683744,3.1482446,"Farrutx, Carrer Maria Antònia Salvà, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+354,Flora,3.0,,,
+355,Galaxia Boutique Hotel,1.0,,,
+356,FERGUS Style Soller Beach,4.0,,,
+357,VIVA Golf,5.0,,,
+358,THB Gran Bahía,4.0,,,
+359,THB Gran Playa,4.0,,,
+360,Habitat Apartments,3.0,,,
+361,Illa d'Or Hotel,4.0,,,
+362,Ivory Playa,3.0,,,
+363,Ferrer Janeiro Hotel & Spa,4.0,39.7597029,3.1671627,"Ferrer Janeiro Hotel & Spa, 4, Avinguda Diagonal, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+364,Zafiro Bahía,4.0,39.7885747,3.1274157,"Zafiro Bahía, carrer de les Dunes, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+365,La Residencia,5.0,39.7639800,3.1597206,"Carrer de la Residència, Son Bauló, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+366,EIX Lagotel Holiday Resort,4.0,,,
+367,Hotel Las Gaviotas Suites Hotel,4.0,,,
+368,L'Hermitage Hotel & Spa,4.0,,,
+369,Grupotel Los Principes & Spa,4.0,,,
+370,Prinsotel Mal Pas,4.0,,,
+371,Aparthotel Maracaibo,3.0,,,
+372,Pure Salt Port de Sóller,4.0,,,
+373,Alcudia Port Suites,5.0,,,
+374,Grupotel Maritimo,4.0,,,
+375,Ilusion Markus & Spa,3.0,,,
+376,Miramar,2.0,39.7660175,3.1555545,"Miramar, 1, Passeig de l'Enginyer Antoni Garau, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+377,Nordeste Playa,3.0,39.7667887,3.1519194,"Nordeste Playa, 10, Via França, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+378,JS Miramar,3.0,,,
+379,Hotel Niu,4.0,,,
+380,Grupotel Molins,5.0,,,
+381,Eden Nord,3.0,,,
+382,Grupotel Montecarlo,4.0,,,
+383,Grupotel Picafort Beach,4.0,39.7704374,3.1482200,"Picafort Beach, Carrer Joan Alcover, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+384,Eix Platja Daurada Hotel & SPA,4.0,,,
+385,Hoposa Hotel Pollentia,4.0,,,
+386,Grupotel Port d'Alcudia,4.0,,,
+387,Bikini Island & Mountain Hotel Port de Sóller,3.0,,,
+388,Inmood Aucanada,4.0,,,
+389,BG Hotel Rei del Mediterrani Palace,4.0,,,
+390,Romantic,3.0,,,
+391,Hotel Sa Coma,3.0,,,
+392,The Sea Hotel by Grupotel ,4.0,,,
+393,BQ Sarah Hotel,3.0,39.7596011,3.1665245,"Sarah, Carrer de la Badia, Son Bauló, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+394,Sea Club Alcúdia Mediterranean Resort,3.0,,,
+395,JS Sol de Alcudia,4.0,,,
+396,Soller Garden,5.0,39.7996177,2.6984536,"Hotel Soller Garden, 5, plaça dels Reis de Mallorca, Port de Sóller, Sóller, Serra de Tramuntana, Illes Balears, 07108, España"
+397,Hotel Son Bauló,3.0,39.7589982,3.1688832,"Son Bauló, 1, Ronda del Torrent, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+398,Sultan Hotel,2.0,39.7689649,3.1485777,"Sultán, 147, Passeig Colón, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+399,VIVA Sunrise,4.0,,,
+400,Zafiro Tropic,4.0,,,
+401,Hoposa Hotel Uyal,4.0,,,
+402,Villa Barbara,1.0,,,
+403,Vista Park Hotel & Apartamentos,3.0,,,
+404,Bordoy Continental Valldemossa,3.0,,,
+405,Finca Ca N'ai,4.0,,,
+406,Grupotel Dunamar,4.0,39.7711867,3.1474591,"Dunamar, Carrer de l'Arxiduc Lluís Salvador, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+407,HSM Lago Park,3.0,39.8144123,3.1138198,"HSM Lago Park, Carrer Iola, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+408,Citric Hotel Soller,5.0,,,
+409,Hotel Eden,4.0,39.5331914,2.7242357,"Hotel Eden Palma Playa, 1, carrer de la Pollacra, Can Pastilla, Palma, Illes Balears, 07610, España"
+410,Hotel Marina & Wellness Spa,3.0,,,
+411,Occidental Playa de Palma,4.0,,,
+412,Hotel Helios Mallorca,3.0,39.5338689,2.7251249,"Helios, 7, carrer de la Caravel·la, Can Pastilla, Palma, Illes Balears, 07610, España"
+413,Hotel Rural Monnaber Nou & Spa,4.0,,,
+414,Son Sama,5.0,39.4906972,2.9405920,"Son Samà, Ma-5020, Llucmajor, Migjorn, Illes Balears, 07620, España"
+415,Finca Hotel Predio Son Serra,3.0,,,
+416,Aumallia Hotel & Spa,4.0,,,
+417,INNSIDE Palma Center,4.0,,,
+418,FERGUS Style Palmanova,4.0,,,
+419,Sol Katmandú Park & Resort,4.0,,,
+420,Vistasol Apartamentos,3.0,,,
+421,Innside Cala Blanca,4.0,,,
+422,Aparthotel Novo Mar,3.0,,,
+423,UR Portofino ,4.0,,,
+424,TRH Jardin del Mar,3.0,,,
+425,Hotel GPRO Valparaíso Palace & Spa,5.0,,,
+426,Universal Hotel Cabo Blanco,4.0,,,
+427,Andreas Apartments,3.0,,,
+428,Bahia Suites,4.0,,,
+429,Europe Playa Marina,4.0,,,
+430,Bahia Principe Sunlight Coral Playa,4.0,,,
+431,BelleVue Belsana,3.0,,,
+432,Amazonas Hotel,3.0,,,
+433,Gavimar Ariel Chico,3.0,,,
+434,BelleVue Lagomonte,3.0,,,
+435,allsun Hotel Eden Playa,5.0,,,
+436,Aparthotel Cap de Mar,4.0,,,
+437,best FAMILY Protur Safari Park,4.0,,,
+438,Globales Cala Bona Suites,4.0,,,
+439,ICON Valparaiso,3.0,39.4558389,3.2784761,"ICON Valparaíso, 28, Carrer d'Aragó, Cala Murada, Manacor, Llevant, Illes Balears, 07688, España"
+440,HM Alma Beach,4.0,,,
+441,Hotel Seramar Comodoro Playa,4.0,,,
+442,Sun Club Eldorado,2.0,,,
+443,Los Geranios,4.0,39.5465933,2.7829777,"Carrer de los Geranios, urbanització de Son Oliver, Sant Jordi, S'Aranjassa, Palma, Illes Balears, 07600, España"
+444,Catalonia Majorica,4.0,39.5563843,2.6225363,"Majórica, Carrer del Corb Marí, es Corb Marí, Portopí, Palma, Illes Balears, 07014, España"
+445,Garden Holiday Village,4.0,,,
+446,AluaSun Continental Park Hotel & Apartments,4.0,39.8136315,3.1136761,"AluaSun Continental Park Hotel & Apartments, 4, Carrer Iola, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+447,HSM Club Torre Blanca ,3.0,,,
+448,BlueSea Costa Verde,3.0,,,
+449,Hotel Sant Jordi,3.0,39.5304510,2.7306990,"Hotel Sant Jordi, Carrer de la Grua, Can Pastilla, Palma, Illes Balears, 07610, España"
+450,JS Cape Colom,3.0,,,
+451,BlueSea Piscis,3.0,,,
+452,Hotel Iris,3.0,39.5060828,2.7527369,"Hotel iris, Carrer d'Amílcar, s'Arenal, Son Verí, Ses Cadenes, Illes Balears, 07600, España"
+453,Playas de Paguera,2.0,,,
+454,Hotel Cala Fornells,4.0,,,
+455,Playa Sol,2.0,39.5069885,2.7539376,"Playa Sol, Carretera Militar, s'Arenal, Son Verí, Ses Cadenes, Illes Balears, 07600, España"
+456,Raxa,1.0,39.5300323,2.7315849,"Raxa, Carrer de la Garsa, Can Pastilla, Palma, Illes Balears, 07610, España"
+457,Aldea 2 Cala Fornells,3.0,,,
+458,Hotel Linda Mallorca,3.0,39.5376875,2.7161496,"Hotel Linda, 2, Carrer Octavi August, Can Pastilla, Palma, Illes Balears, 07610, España"
+459,Sa Bassa Plana,3.0,,,
+460,Meliá South Beach,4.0,,,
+461,Iberostar Cala Domingos,4.0,39.4569690,3.2756278,"Iberostar Waves Cala Domingos, camí de Cala Domingos, Cala Murada, Manacor, Llevant, Illes Balears, 07689, España"
+462,AluaSun Torrenova,4.0,,,
+463,Hotel Petit Cala Fornells,5.0,,,
+464,Maristel Hotel & Spa,4.0,,,
+465,Cook’s Club Calvia Beach,3.0,,,
+466,Apartamentos Roc Portonova,3.0,,,
+467,Portals Hills Boutique Hotel,5.0,,,
+468,JS Alcudi Mar,4.0,39.8119140,3.1147229,"Alcudi Mar, Avinguda de s'Albufera, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07408, España"
+469,Grupotel Parc Natural & Spa,5.0,,,
+470,BG Tonga Tower Design Hotel & Suites,5.0,,,
+471,Hotel Seasun Siurell,3.0,,,
+472,allsun Hotel Lago Playa Park,4.0,,,
+473,Playa Garden Selection Hotel & Spa,4.0,39.7904447,3.1256458,"Playa Garden Selection Hotel & Spa, 25.9, Avinguda de les Platges de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+474,More,3.0,,,
+475,Posada de's Moli,4.0,,,
+476,Morlans Suites,2.0,,,
+477,Petit Hotel Rural Son Jordà - Hotel Rural Restaurant,5.0,,,
+478,Plaza Santa Ponsa Boutique Hotel,4.0,,,
+479,D'Or Hotel,2.0,,,
+480,Eurostars Marivent,3.0,39.5526301,2.6110858,"Eurostars Marivent, 6, Carrer de Dina Moore Bowden, Cala Major, Palma, Illes Balears, 07015, España"
+481,Flamboyan Caribe,4.0,,,
+482,Tropico Playa Hotel,3.0,,,
+483,Oberoy Hotel,4.0,,,
+484,Paguera Treff Boutique Hotel,4.0,,,
+485,Leonardo Royal Hotel Mallorca,4.0,,,
+486,Embat,2.0,39.5682277,2.9823424,"Embat, 4, carrer del Rector Escarrer, Montuïri, Pla de Mallorca, Illes Balears, 07199, España"
+487,BlueSea Don Jaime,3.0,,,
+488,Atalaya Bosque,2.0,,,
+489,Hotel Teide,2.0,39.5082522,2.7532653,"Teide, Carrer del Canonge Mateu Rotger, s'Arenal, Son Verí, Ses Cadenes, Illes Balears, 07600, España"
+490,BQ Augusta Hotel,4.0,39.5564672,2.6212823,"Augusta, 22, Carrer del Corb Marí, es Corb Marí, Portopí, Palma, Illes Balears, 07014, España"
+491,Agroturisme Perola,3.0,,,
+492,Hotel Amic Horizonte,3.0,39.5553378,2.6221077,"Hotel Amic Horizonte, 1, Carrer de Vista Alegre, es Corb Marí, Portopí, Palma, Illes Balears, 07015, España"
+493,Blau Colonia Sant Jordi Resort & Spa,4.0,,,
+494,Inturotel Azul Garden,3.0,,,
+495,Hotel Vistamar Portocolom,4.0,,,
+496,Hotel La Concha Soul,2.0,,,
+497,Hotel Millor Sol,3.0,,,
+498,Prinsotel La Dorada,4.0,39.8048377,3.1162065,"La Dorada, Carrer Romaní, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07408, España"
+499,Virrey Finca Hotel,4.0,,,
+500,Bendinat,4.0,39.5907234,3.0854347,"Son Bendinat, Petra, Pla de Mallorca, Illes Balears, 07250, España"
+501,Apartamentos Europa,2.0,,,
+502,Hotel Costa Mediterraneo,2.0,,,
+503,Meliá Cala d'Or Boutique Hotel,5.0,,,
+504,Atolon,3.0,,,
+505,Pula Golf Resort,4.0,,,
+506,Casal Santa Eulalia,4.0,,,
+507,Finca Can Quatre,4.0,,,
+508,Hotel Agua Beach,4.0,,,
+509,Hotel Panorama,2.0,,,
+510,JS Can Picafort,3.0,39.7675169,3.1514641,"Sol, Carrer Arenal, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+511,Universal Hotel Perla,4.0,,,
+512,JS Paradise Sport,3.0,,,
+513,Hotel Amic Miraflores,3.0,39.5358199,2.7193299,"Hotel Amic Miraflores, 4, Carrer del Xabec, Can Pastilla, Palma, Illes Balears, 07610, España"
+514,Castillo Hotel Son Vida,5.0,39.5919577,2.5961476,"Castillo de Son Vida, 2, Carrer de Raixa, Son Vida, Palma, Illes Balears, 07013, España"
+515,Hipotels Hipocampo Palace & Spa,5.0,,,
+516,Hipotels Bahía Cala Millor,4.0,,,
+517,Hipotels Mediterráneo Club,4.0,,,
+518,La Reserva Rotana,5.0,,,
+519,Grupotel Mallorca Mar,4.0,,,
+520,Canyamel Classic,4.0,,,
+521,Hotel Playa,3.0,39.5190213,2.7482825,"Hotel Riu Playa Park, 15, Carrer del Pare Bartomeu Salvà, Les Meravelles, Palma, Illes Balears, 07610, España"
+522,ALEGRIA Alzinar Mar Suites,4.0,,,
+523,Finca Monnàber Vell,4.0,,,
+524,Son Marge,4.0,,,
+525,Hotel Can Moragues Healthy & Wellness,4.0,,,
+526,JS Horitzó,3.0,39.7676137,3.1523397,"Horitzó, Via Alemanya, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+527,Green Garden Aparthotel,4.0,,,
+528,Nixe Palace,5.0,39.5524942,2.6073942,"Nixe Palace, 269, Avinguda de Joan Miró, Cala Major, Palma, Illes Balears, 07015, España"
+529,Finca Son Menut,3.0,,,
+530,Finca es Rafal,3.0,39.5866053,2.9837352,"Finca Es Rafal, camí d'Es Rafal, Montuïri, Pla de Mallorca, Illes Balears, 07199, España"
+531,Finca Hotel Rural Es Turó,4.0,,,
+532,Hesperia Ciudad de Mallorca,4.0,,,
+533,Universal Hotel Romantica,3.0,,,
+534,Sallés Hotel Marina Portals,4.0,,,
+535,Pula Suites Boutique Resort,5.0,,,
+536,Costa Azul,4.0,39.5686525,2.6321151,"Hotel Costa Azul, 7, Avinguda de Gabriel Roca, Son Armadans, Palma, Illes Balears, 07014, España"
+537,Possessió Binicomprat,4.0,,,
+538,Bakour Garbi Cala Millor,4.0,,,
+539,Dunes Platja,4.0,39.7718267,3.1458893,"Dunes Platja, Passeig Colón, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+540,S'Antigor Petit Hotel,3.0,,,
+541,Club del Sol Aparthotel,4.0,,,
+542,Bluewater Hotel,3.0,,,
+543,CM Mallorca Palace,5.0,,,
+544,Duva Aparthotel & Spa,4.0,,,
+545,Saratoga,4.0,39.5717942,2.6423960,"Saratoga, Carrer de Berenguer de Tornamira, Canavall, Palma, Illes Balears, 07012, España"
+546,allsun Hotel Illot Park,5.0,,,
+547,Sa Bassa Rotja Ecoturisme,4.0,,,
+548,Alcudia Garden Aparthotel,3.0,,,
+549,Steigenberger Hotel & Resort Camp de Mar,5.0,,,
+550,Es Puig de Ros d'Alt,4.0,,,
+551,Catalonia Del Mar,4.0,,,
+552,Globales Palmanova Palace,4.0,,,
+553,Houm Plaza Son Rigo,3.0,39.5221107,2.7413613,"plaza Son Rigo, Carrer de Marbella, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+554,Protur Badía Park Aparthotel,4.0,,,
+555,Lago Garden Hotel & Spa,5.0,,,
+556,Hacienda Son Antem,5.0,,,
+557,Alcudiamar Botel,4.0,,,
+558,Be Live Collection Palace de Muro,5.0,,,
+559,Universal Hotel Aquamarin,4.0,,,
+560,Zafiro Can Picafort,4.0,39.7625518,3.1468875,"Zafiro Can Picafort, Carrer Camp d'Avall, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+561,Finca Son Pieras,5.0,,,
+562,Hotel Rural S'Olivaret,4.0,,,
+563,BLUESEA Es Bolero,3.0,,,
+564,Universal Casa Marquesa,3.0,,,
+565,allsun App.-Hotel Orient Beach,5.0,,,
+566,Fergus Barracuda,3.0,,,
+567,Hotel Bordoy Don Antonio,4.0,,,
+568,Valentin Park Club Hotel & Apartments,3.0,,,
+569,Fenix Hotel,3.0,,,
+570,Lindner Golf Resort Portals Nous,4.0,,,
+571,Son Siurana,4.0,39.6480321,3.1113355,"Son Siurana, Ariany, Pla de Mallorca, Illes Balears, 07529, España"
+572,H10 Casa del Mar,3.0,,,
+573,BQ Aguamarina Boutique Hotel,4.0,,,
+574,Ca'n Canals,3.0,,,
+575,Globales Panama,4.0,,,
+576,VIVA Blue & Spa,4.0,39.8067755,3.1156415,"Viva Blue & Spa, passeig d'en Bateman, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07408, España"
+577,Dalt Muntanya,3.0,,,
+578,Grupotel Natura Playa,4.0,39.7990937,3.1208799,"Natura Playa, carrer dels Anglesos, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+579,HM Mar Blau,4.0,,,
+580,Universal Hotel Castell Royal,4.0,,,
+581,Son Trobat Wellness & Spa,4.0,,,
+582,Son Sant Jordi,4.0,,,
+583,Club S'Illot,3.0,,,
+584,Nord,3.0,,,
+585,Hotel Artmadams,4.0,39.5688877,2.6302448,"Artmadams, Carrer del Marquès de la Sènia, Son Armadans, Palma, Illes Balears, 07014, España"
+586,Hotel Mirador,4.0,39.5687664,2.6312860,"Mirador, Carrer de Guillem Costa, Son Armadans, Palma, Illes Balears, 07014, España"
+587,Hotel Sa Galera,4.0,,,
+588,Palladium,3.0,,,
+589,Hotel HM Jaime III,4.0,,,
+590,Valentin Park Apartments,3.0,,,
+591,Cala Millor Garden Hotel,4.0,,,
+592,Mon Port Hotel & Spa,4.0,,,
+593,Finca Hotel Son Palou,4.0,,,
+594,Ca'l Bisbe,4.0,,,
+595,Pure Salt Port Adriano,5.0,,,
+596,The St. Regis Mardavall Mallorca Resort ,5.0,,,
+597,Son Cleda,5.0,39.6431735,3.0114550,"Son Cleda, carrer del Mirador, ses Cases Noves, Sineu, Pla de Mallorca, Illes Balears, 07510, España"
+598,Sa Rota d'en Palerm,4.0,39.6094680,3.0054259,"sa Rota d'en Palerm, Lloret de Vistalegre, Pla de Mallorca, Illes Balears, 07518, España"
+599,Be Live Adults Only La Cala Boutique,4.0,,,
+600,Vell Marí Hotel & Resort,4.0,39.7569534,3.1581012,"Vell Marí Hotel & Resort, Carretera d'Artà, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+601,Araxa,3.0,39.5696435,2.6258144,"Araxa, 22, Carrer de Pilar Juncosa, Son Armadans, Palma, Illes Balears, 07014, España"
+602,Isla Mallorca Urban Hotel & Spa,4.0,,,
+603,Samos,3.0,39.5476837,2.6931920,"Carrer de l'Illa de Samos, es Coll d'en Rabassa, Palma, Illes Balears, 07007, España"
+604,Alfabia Nou Agroturismo,4.0,,,
+605,Sa Taqueta de Fornalutx,4.0,,,
+606,Na Forana,4.0,39.6165921,3.1153956,"carrer de la Revolta Forana, Petra, Pla de Mallorca, Illes Balears, 07520, España"
+607,Grupotel Playa de Palma Suites & Spa,4.0,,,
+608,Universal Hotel Marqués,4.0,,,
+609,Aparthotel Can Picafort Palace,4.0,,,
+610,Can Simó Alcudia,4.0,,,
+611,Globales Mimosa,4.0,,,
+612,INNSIDE Palma Bosque,4.0,39.5664585,2.6259464,"Innside Palma Bosque, Carrer d'Enric Fajarnés, El Terreno, Palma, Illes Balears, 07014, España"
+613,Zafiro Mallorca,4.0,39.7665175,3.1428783,"Zafiro Mallorca, Avinguda Santa Eulàlia, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+614,Palma Bay Club Resort & Sahara-Nubia-Gobi Bay,3.0,,,
+615,Aimia Hotel Port de Sóller,4.0,,,
+616,Universal Hotel Lido Park & Spa,4.0,,,
+617,Gran Hotel Soller,5.0,,,
+618,Convent de la Missió Art & Urban Live,5.0,,,
+619,Palm Garden Apartments,2.0,,,
+620,Occidental Cala Viñas,4.0,39.4943701,2.5343286,"Occidental Cala Viñas, carrer Nereides, Cala Vinyes, Calvià, Serra de Tramuntana, Illes Balears, 07182, España"
+621,Valentin Playa de Muro,3.0,39.7730295,3.1381688,"Valentin Playa de Muro, kM 23, Ma-12, ses Casetes des Capellans, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+622,BelleVue Vistanova,3.0,,,
+623,tent Palmanova,3.0,,,
+624,Petit Caimari,3.0,,,
+625,Puro Hotel Palma,4.0,39.5692718,2.6452776,"Puro, Carrer de Montenegro, el Call, Canavall, Palma, Illes Balears, 07012, España"
+626,Petit Palace Tres,4.0,39.5689051,2.6457292,"Petit Palace Hotel Tres, 3, Carrer dels Apuntadors, el Call, Canamunt, Palma, Illes Balears, 07012, España"
+627,AC Hotel Ciutat de Palma,4.0,,,
+628,Hotel Joan Miró Museum,4.0,,,
+629,Hotel Hospes Maricel & Spa,5.0,,,
+630,Carabela II Appertments,5.0,,,
+631,Ikos Porto Petro,5.0,,,
+632,Apartamentos Vista Alegre,5.0,,,
+633,Aparthotel Club Simó,3.0,,,
+634,Hoposa Costa d'Or,4.0,,,
+635,VIVA Cala Mesquida Resort & Spa,4.0,,,
+636,VIVA Cala Mesquida Suites & Spa Adults only 16+,5.0,,,
+637,Hotel Mix Perú Playa,2.0,39.5219273,2.7462905,"HR Mix Perú Playa, 12, Carrer de la Mar d'Aral, Les Meravelles, Es Pil·larí, Illes Balears, 07610, España"
+638,Na Martina,5.0,39.6137657,2.9832720,"Ca na Martina, camí vell de Sineu a Algaida, Lloret de Vistalegre, Pla de Mallorca, Illes Balears, 07518, España"
+639,Finca Son Roig,4.0,39.5271635,3.0704856,"Finca Son Roig Agroturismo, camí de sa Torre, Porreres, Pla de Mallorca, Illes Balears, 07260, España"
+640,Hotel Can Simoneta,5.0,,,
+641,Sant Salvador,5.0,39.5638821,2.6004742,"Sant Salvador, Carrer del Puig des Caragol, Gènova, Palma, Illes Balears, 07015, España"
+642,MarSenses Rosa del Mar Hotel & Spa,4.0,,,
+643,Sol Cala d'Or Apartamentos,3.0,,,
+644,MLL Blue Bay,3.0,,,
+645,Apartamentos Villa Real,2.0,,,
+646,Amic Can Pastilla,2.0,39.5363129,2.7191842,"Hotel Amic Gala, 5, Carrer del Xabec, Can Pastilla, Palma, Illes Balears, 07610, España"
+647,Hotel Amic Gala,3.0,39.5363129,2.7191842,"Hotel Amic Gala, 5, Carrer del Xabec, Can Pastilla, Palma, Illes Balears, 07610, España"
+648,PortBlue Club Pollentia Resort & Spa,4.0,,,
+649,Chevy Hotel & Hostal Montesol,5.0,,,
+650,BLUESEA Club Marthas,4.0,,,
+651,Ipanema Park & Beach,3.0,,,
+652,Isla de Cabrera Hotel,3.0,,,
+653,Son Penya Petit,3.0,,,
+654,Hotel Sercotel Zurbarán ,3.0,,,
+655,Iberostar Selection Playa de Muro Village,5.0,39.8055542,3.1184180,"Iberostar Selection Playa de Muro Village, 6, Avinguda de s'Albufera, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+656,Mar Hotels Playa de Muro Suites,4.0,39.8033066,3.1170343,"Mar Hotels Playa de Muro Suites, 150, Carrer Falcó, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07458, España"
+657,Hotel Illot Suites & Spa,4.0,,,
+658,Hotel Club Palia Dolce Farniente,3.0,,,
+659,Globales Apartotel Bouganvilla,3.0,,,
+660,Apartamentos Casa Vida,3.0,,,
+661,Martha´s Imagine Suite,3.0,,,
+662,Club Mac Alcudia,3.0,,,
+663,Reverence Mare Hotel,5.0,,,
+664,Pierre & Vacances Apartamentos Mallorca Deya,3.0,,,
+665,Hotel Club Palia Maria Eugenia,4.0,,,
+666,HSM Don Juan,3.0,,,
+667,Hotel Florida Magaluf,4.0,,,
+668,HM Martinique,4.0,,,
+669,Fergus Club Palmanova Park,4.0,,,
+670,THB Bamboo Alcudia,4.0,,,
+671,Hotel Santa Ponsa Pins,3.0,,,
+672,Palmanova Beach Apartments by TRH,4.0,,,
+673,La Vila,4.0,,,
+674,Golf Beach,2.0,,,
+675,Almudaina,5.0,39.5718112,2.6452256,"Almudaina, Avinguda de Jaume III, el Call, Canavall, Palma, Illes Balears, 07012, España"
+676,Bordoy Continental Palma,4.0,,,
+677,Hotel BG Pamplona,4.0,,,
+678,Son Julia Country House,5.0,,,
+679,HSM Sandalo Beach,3.0,,,
+680,Dreams Calviá Mallorca,4.0,,,
+681,HSM Atlantic Park,4.0,,,
+682,Inturotel Esmeralda Garden,3.0,,,
+683,M House Hotel,4.0,39.5743538,2.6513561,"M House, 1A, carrer de Can Maçanet, Canavall, Palma, Illes Balears, 07003, España"
+684,AluaSoul Mallorca Resort,4.0,,,
+685,Hotel Abelux,2.0,,,
+686,OLA Apartamentos Cala d' Or,3.0,,,
+687,Aparthotel Aquasol,3.0,,,
+688,AluaSoul Alcudia Bay,4.0,,,
+689,Cabot Pollensa Park Spa,5.0,,,
+690,Globales Apartamentos Cala Viñas,3.0,,,
+691,MarSenses Puerto Pollensa Hotel & Spa,4.0,,,
+692,Niu d'Aus Apartments,3.0,,,
+693,Pirates Village Apartments,3.0,,,
+694,Jutlandia Family Resort,3.0,,,
+695,Econotel Las Palomas,2.0,,,
+696,Elba Sunset Mallorca,4.0,,,
+697,Palmanova Suites by TRH Hotel,4.0,,,
+698,FERGUS Bermudas,4.0,,,
+699,Hoposa Hotel Bahia,3.0,,,
+700,Montelín,5.0,,,
+701,Apartamentos Massol,2.0,,,
+702,Arcos Playa,5.0,,,
+703,Globales Torrenova,3.0,,,
+704,Sol Lunamar Apartamentos,3.0,,,
+705,Alua Palmanova Bay,4.0,,,
+706,Apartamentos Marina - Palmanova,2.0,,,
+707,Apartamentos Don Miguel,2.0,,,
+708,Globales Costa de la Calma,3.0,,,
+709,Mac Surfing Playa,5.0,,,
+710,Apartamentos Siesta 1,5.0,,,
+711,Hotel Ilusion Calma & Spa,3.0,,,
+712,Aparthotel Ona Cala Pi Club,3.0,,,
+713,Nautic Hotel & Spa,4.0,,,
+714,Globales Palmanova,4.0,,,
+715,Mix BR (Bahía Real) Apartments,3.0,,,
+716,Hoposa Apartments Pollensamar,3.0,,,
+717,Universal Hotel Laguna,4.0,,,
+718,Santa Clara Urban Hotel & Spa,4.0,,,
+719,Zoëtry Mallorca,5.0,,,
+720,Zhero Palma,3.0,,,
+721,UR Palacio Avenida,4.0,,,
+722,Globales Verdemar Apartments,3.0,,,
+723,Tacande Portals Wellness & Relax,4.0,,,
+724,Isla del Sol,2.0,39.5374197,2.7144110,"Isla del Sol, 5, carrer dels Pins, Can Pastilla, Palma, Illes Balears, 07610, España"
+725,Apartamentos Inn,2.0,,,
+726,Mar Brava,3.0,39.7665832,3.1498857,"Mar Brava, Avinguda Centre, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+727,Playas Ca's Saboners,3.0,,,
+728,Hotel Bellavista & Spa,3.0,,,
+729,Hotel Las Arenas,4.0,,,
+730,Sol Romantica,3.0,,,
+731,Sun Beach,2.0,,,
+732,Es Blau Hotel Des Nord,4.0,,,
+733,Vista Club,3.0,,,
+734,Holiday Park,2.0,,,
+735,Playas del Rey,3.0,,,
+736,Ca'n Bonico,4.0,,,
+737,Hostal HPC Portocolom,1.0,,,
+738,Sol Calas de Mallorca,4.0,,,
+739,Sotavento,3.0,,,
+740,Apartments Econotel Kensington ,1.0,,,
+741,Oriola,2.0,,,
+742,Hostal Blanca,1.0,,,
+743,Universal Hotel Bikini,3.0,,,
+744,Naika Studios & Apartments,2.0,,,
+745,Martinez Apartments,2.0,,,
+746,Sa Franquesa Nova Hotel Rural,4.0,,,
+747,Hoposa Villaconcha,4.0,,,
+748,Finca Hotel Can Estades,3.0,,,
+749,Apartamentos Mallorca Portofino,3.0,,,
+750,Principal Son Amoixa,4.0,,,
+751,Puerto Azul Suite Hotel,4.0,,,
+752,Africamar,3.0,39.7671525,3.1471579,"Africamar, Carretera d'Artà, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+753,Inturotel Sa Marina,4.0,,,
+754,Valentin Paguera Hotel,3.0,39.5388836,2.4529770,"Valentin Reina Paguera, 1, Carrer de Mallorca, Peguera, Calvià, Serra de Tramuntana, Illes Balears, 07160, España"
+755,Valentin Paguera Suites,3.0,,,
+756,Cabot Hobby Club Apartments,3.0,,,
+757,Hotel Palia Sa Coma Playa,4.0,,,
+758,allsun App.-Hotel Estrella & Coral de Mar,5.0,,,
+759,Cabot Las Velas Apartments,3.0,,,
+760,Hotel Alea,3.0,,,
+761,Don Pepe,3.0,,,
+762,BH Mallorca Resort Affiliated by FERGUS,3.0,,,
+763,Mar Hotels Playa Mar & Spa,4.0,,,
+764,Canyamel Sunrise Apartments,3.0,,,
+765,Cap Rocat,5.0,,,
+766,Villa Singala,3.0,,,
+767,Globales Apartamentos Nova,3.0,,,
+768,Cala d'Or Playa,3.0,,,
+769,Solecito Apartamentos,2.0,,,
+770,Hostal Lido,1.0,,,
+771,Sol de Alcudia Apartamentos,3.0,,,
+772,Sant Salvador Hostatgeria,3.0,,,
+773,Marins Playa Suites,4.0,,,
+774,Colon Palma,3.0,,,
+775,Can Cera,5.0,39.5686257,2.6515309,"Can Cera, Carrer de Sant Francesc, el Call, Canamunt, Palma, Illes Balears, 07001, España"
+776,Es Riquers,3.0,39.5122484,2.9958295,"es Riquers, Porreres, Pla de Mallorca, Illes Balears, 07260, España"
+777,Villa Palmer,3.0,,,
+778,Fontsanta Hotel Thermal Spa & Wellness,5.0,,,
+779,Jumeirah Port Soller Hotel & Spa,5.0,,,
+780,Predi Son Jaumell Hotel Rural,5.0,,,
+781,Hotel Diamant,4.0,,,
+782,La Santa Maria Hotel,3.0,,,
+783,Mirador & Artmadams,4.0,,,
+784,Mar Calma,4.0,,,
+785,La Victoria Hostatgeria,3.0,,,
+786,Can Vent Alcudia,4.0,,,
+787,Alcudia Petit,3.0,,,
+788,HM Balanguera,4.0,,,
+789,Playa Esperanza Resort Affiliated by Melia,4.0,,,
+790,Palma Suites,4.0,39.5704082,2.6537965,"Palma Suites, Carrer del Pes de la Farina, el Call, Canamunt, Palma, Illes Balears, 07002, España"
+791,Calatrava Boutique,5.0,,,
+792,Sol Port Soller,2.0,39.7993393,2.7004195,"Sol y Sombra, 11, plaça dels Reis de Mallorca, Port de Sóller, Sóller, Serra de Tramuntana, Illes Balears, 07108, España"
+793,Gavimar Ariel Chico Club & Resort,3.0,,,
+794,Cort,4.0,39.5697449,2.6500527,"Cort, Plaça de Cort, el Call, Canamunt, Palma, Illes Balears, 07001, España"
+795,Castell Son Claret,5.0,,,
+796,Hostal Cuba,4.0,,,
+797,Hotel Coronado Thalasso & Spa,5.0,,,
+798,Whala Beach,3.0,,,
+799,Apartamentos Club Sa Coma,3.0,,,
+800,Ferrer Tamarindos Apartamentos,2.0,,,
+801,Son Moll Sentits Hotel & Spa,4.0,,,
+802,Hotel Brisa Marina,3.0,39.5682549,3.3733452,"Hotel Brisa Marina, 15, Carrer Xaloc, Cala Moreia, Sant Llorenç des Cardassar, Llevant, Illes Balears, 07560, España"
+803,Melbeach Hotel & Spa,3.0,,,
+804,Trendhotel Alcudia,3.0,,,
+805,Aparthotel Portodrach,4.0,,,
+806,Ona Garden Lago,3.0,,,
+807,Es Convent,5.0,39.6223823,2.9368104,"es Convent, sa Plaça, Ruberts, Sencelles, Pla de Mallorca, Illes Balears, 07220, España"
+808,Leonardo Boutique Hotel Mallorca Port Portals,4.0,,,
+809,Son Cosmet,4.0,,,
+810,Sa Cabana Hotel Rural & SPA,4.0,,,
+811,Jupiter Hotel,3.0,,,
+812,Sis Pins,3.0,39.7371406,3.2200883,"Sis Pins, 23, Avinguda de Talaiot de sa Nineta, Son Serra de Marina, Santa Margalida, Pla de Mallorca, Illes Balears, 07459, España"
+813,Cristina Apartamentos,2.0,,,
+814,Apartamentos Llevant,5.0,,,
+815,Ona Aucanada Club Aparthotel,3.0,,,
+816,Ben Hur,3.0,,,
+817,Nura Boreal,3.0,,,
+818,BH Mallorca Apartments,3.0,,,
+819,Globales Simar,3.0,,,
+820,Can Alomar Luxury Boutique,5.0,,,
+821,allsun App.-Hotel Orquidea Playa,5.0,,,
+822,Born,2.0,39.5719151,2.6470748,"Born, 3, Carrer de Sant Jaume, el Call, Canavall, Palma, Illes Balears, 07012, España"
+823,S'Hort de son Caulelles,4.0,,,
+824,Fincahotel Binibona Parc Natural,4.0,,,
+825,Albellons Parc Natural,4.0,,,
+826,Iberostar Ciudad Blanca Alcudia Apartamentos,4.0,,,
+827,Finca Son Mercadal,3.0,,,
+828,Ca's Papa Sweet Hotel Valldemossa,4.0,,,
+829,Duvabitat Apartments,3.0,,,
+830,Stil Bonsai,3.0,39.7597682,3.1682528,"Stil Bonsai, 112, Carrer Isaac Peral, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+831,Segles,5.0,,,
+832,Castell Dels Hams,4.0,,,
+833,Hotel Honucai,4.0,,,
+834,Ona Village Cala D'Or,3.0,,,
+835,Posada Terra Santa,4.0,39.5697768,2.6534331,"Posada Terra Santa, 5, Carrer de la Posada de Terra Santa, el Call, Canamunt, Palma, Illes Balears, 07001, España"
+836,Santuari de Cura,3.0,39.5275761,2.9260199,"Santuari de Cura, Ma-5018, Algaida, Pla de Mallorca, Illes Balears, 07210, España"
+837,Zafiro Palace Alcudia,5.0,,,
+838,Iberostar Cala Millor,5.0,,,
+839,Apartamentos Venecia,5.0,,,
+840,Hotel Triton Beach,4.0,,,
+841,LoftOtel Canet,4.0,,,
+842,R2 Bahia Cala Ratjada Design Hotel,4.0,,,
+843,Sant Francesc Hotel Singular,5.0,,,
+844,The Hostal,1.0,,,
+845,Hotel Verónica & Apartaments Midas,3.0,,,
+846,Apartamentos Balear Beach,1.0,,,
+847,Hotel Mix Colombo,3.0,,,
+848,Vintage Hotel Bella Colina est. 1953,3.0,,,
+849,Es Revellar Art Resort,5.0,,,
+850,Isla de Cabrera Aparthotel & Hotel,4.0,,,
+851,Hoposa Cultural Boutique,2.0,,,
+852,Son Perdiu,3.0,,,
+853,Mar Hotels Paguera & Spa,4.0,,,
+854,COOEE Cala Ratjada,4.0,,,
+855,Iberostar Selection Llaut Palma - Adults Only,5.0,,,
+856,Art Hotel Palma,4.0,,,
+857,Cap Vermell Grand Hotel,5.0,,,
+858,Can Feliu Ecoagroturismo,4.0,,,
+859,Hotel Club Cala Murada,3.0,39.4595362,3.2740424,"Club Cala Domingos, Carrer de Pedro, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07688, España"
+860,AluaSun Cala Antena,3.0,39.4650885,3.2797226,"AluaSun Cala Antena, Carrer Cala Antena, Cales de Mallorca, Manacor, Llevant, Illes Balears, 07689, España"
+861,Llaüt Boutique Hotel,4.0,,,
+862,Marriott's Club Son Antem,5.0,,,
+863,Sol Barbados,4.0,,,
+864,Playamar Apartments,2.0,,,
+865,PlayaMar Hotel,2.0,,,
+866,Hotel Garbada & Complex,2.0,,,
+867,Seasun Far,3.0,,,
+868,Canyamel Park Hotel & Spa,4.0,,,
+869,Illa d'Or Hotel & Illa d'Or Club,4.0,,,
+870,MLL Palma Bay Club Resort,3.0,,,
+871,Meliá Calviá Beach,4.0,,,
+872,Nakar Hotel,4.0,39.5722319,2.6433582,"Nakar, Avinguda de Jaume III, Canavall, Palma, Illes Balears, 07012, España"
+873,Zafiro Palace Palmanova,5.0,,,
+874,Hipotels Gran Playa De Palma,4.0,39.5140885,2.7487563,"Hipotels Gran Playa de Palma, carrer de les Canyes, Les Meravelles, Ses Cadenes, Illes Balears, 07600, España"
+875,Hipotels Playa de Palma Palace Hotel & Spa,5.0,,,
+876,Caleia Talayot & Spa,5.0,,,
+877,AluaSoul Carolina,4.0,,,
+878,Hotel Creta Paguera,3.0,,,
+879,Pleta De Mar Luxury Hotel by Nature,5.0,,,
+880,Kyrat Amàrac Suites,4.0,,,
+881,Yourhouse Alcudia,2.0,,,
+882,Yourhouse Acapulco Apartamentos,1.0,,,
+883,Es Corte Vell Inland Hotel,4.0,,,
+884,Grupotel Los Principes & Spa  Hotel,4.0,,,
+885,Agroturismo Ca'n Gaia,3.0,,,
+886,Boutique Hotel Sant Jaume,5.0,,,
+887,BO Hotel,4.0,39.5687134,2.6448497,"Bo, Carrer de Jaume Ferrer, Canamunt, Palma, Illes Balears, 07012, España"
+888,Brick Hotel,3.0,39.5698830,2.6548224,"Brick Palma, 3, carrer del Forn d'en Vila, el Call, Foners, Palma, Illes Balears, 07002, España"
+889,Meliá Palma Bay,4.0,39.5631939,2.6656516,"Palma Bay, Carrer de Felicià Fuster, la Roqueta, Nou Llevant, Palma, Illes Balears, 07006, España"
+890,Hotel Turixant,4.0,,,
+891,Hotel Es Princep,5.0,39.5656735,2.6552740,"es Príncep, Carrer del Bastió del Príncep, el Call, Foners, Palma, Illes Balears, 07002, España"
+892,Hotel El Guía,2.0,,,
+893,Mirabo de Valldemossa,4.0,,,
+894,Hotel Sa Vall Valldemossa,3.0,,,
+895,Agroturismo Ses Vistes,5.0,,,
+896,Embat Hostel,2.0,39.5682277,2.9823424,"Embat, 4, carrer del Rector Escarrer, Montuïri, Pla de Mallorca, Illes Balears, 07199, España"
+897,Ca'n Abril,4.0,,,
+898,Hostal Bona Vista,5.0,,,
+899,Metropolitan Playa JUKA Aparthotel,4.0,,,
+900,Can Ribera by Zafiro,4.0,39.7373013,3.0592373,"Can Ribera by Zafiro, 1, carrer del Comtat, Muro, Pla de Mallorca, Illes Balears, 07440, España"
+901,INNSiDE Calviá Beach,4.0,,,
+902,Sa Torre,5.0,39.6341219,2.8477765,"Sa Torre, ses Alqueries, Santa Eugènia, Pla de Mallorca, Illes Balears, 07140, España"
+903,whala!isabela,3.0,,,
+904,Iberostar Grand Portals Nous,5.0,,,
+905,Miramar,4.0,39.7660175,3.1555545,"Miramar, 1, Carrer Magallanes, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+906,Protur Palmeras Playa Hotel,4.0,,,
+907,Sauló Beach Hotel,2.0,,,
+908,Ses Fotges,3.0,39.8089231,3.1171998,"Ses Fotges, Carrer des Flamencs, Platja de Muro, Muro, Pla de Mallorca, Illes Balears, 07408, España"
+909,Ses Roquetes,2.0,39.7666478,3.1545135,"Apartamentos Ses Roquetes, 2, Carrer Hernán Cortés, Can Picafort, Santa Margalida, Pla de Mallorca, Illes Balears, 07458, España"
+910,Hipotels Cala Bona Club,4.0,,,
+911,Aparthotel Marina Drach,2.0,,,
+912,Alqueria Blanca,4.0,39.5115411,3.0514430,"s’Alqueria Blanca, Porreres, Pla de Mallorca, Illes Balears, 07260, España"
+913,TUI BLUE Alcudia Pins,4.0,,,
+914,Stil Mar y Paz,2.0,,,
+915,Hostal Diana,1.0,,,
+916,Mon Boutique Hotel,4.0,,,
+917,Es Quatre Cantons,4.0,39.6298050,3.0162507,"es Quatre Cantons, Sineu, Pla de Mallorca, Illes Balears, 07510, España"
+918,Hipotels Coma Gran,4.0,,,
+919,Son Galceran,4.0,39.6263807,3.0311127,"Son Galceran, camí vell d'Ariany, Sineu, Pla de Mallorca, Illes Balears, 07510, España"
+920,Torre Playa,3.0,,,
+921,Apartamentos Don Miguel & Hotel Panorama,2.0,,,
+922,Hotel Fonda Llabres,2.0,,,
+923,Hostal Apuntadores,2.0,39.5690033,2.6456856,"Hostal Apuntadores, Carrer dels Apuntadors, el Call, Canamunt, Palma, Illes Balears, 07012, España"
+924,Levante,4.0,39.4782147,-0.5697875,"Avalon Informatica y servicios - Delegacion de Levante, 2, Carrer de Mallorca, Polígon Industrial Poio de Reva, Venta de Poio, Riba-roja de Túria, el Camp de Túria, València / Valencia, Comunitat Valenciana, 46190, España"
+925,Vista Park Hotel,3.0,39.7605337,3.1658329,"Vista park, Carrer de la Badia, Son Bauló, Santa Margalida, Pla de Mallorca, Illes Balears, 07450, España"
+926,The Lis,2.0,,,
+927,THB Gran Bahía Hotel,4.0,,,
+928,Forn Nou,3.0,39.6193660,2.6549903,"Forn Nou, Carrer d'Agustí, Son Sardina, Palma, Illes Balears, 07120, España"
+929,HSM Solivera,4.0,,,
+930,Flor Los Almendros,5.0,,,
+931,Hotel Son Ametler,4.0,,,
+932,Fleming Hostel,2.0,,,
+933,EIX Lagotel Apartamentos,4.0,,,
+934,Apartamentos Alborada,1.0,,,
+935,Rafa Nadal Sport Residence,5.0,,,
+936,Hotel Casablanca,3.0,,,
+937,Agroturisme Es Picot,3.0,,,
+938,Hotel The Sky,4.0,,,
+939,Singular Hostel By Eurotels,2.0,,,
+940,Hotel Gloria De Sant Jaume,5.0,,,
+941,Senator Cala Millor,4.0,,,
+942,New Can Furios,4.0,,,
+943,Palma Beach Hotel & Apt,2.0,,,
+944,Cases de Son Barbassa,4.0,,,
+945,EIX Lagotel Hotel,4.0,,,
+946,Santuari de Lluc,1.0,,,
+947,azuLine Hotel Palmanova Garden,2.0,,,
+948,Son Caliu Apartamentos,1.0,,,
+949,S'Estelrica Finca Hotel,4.0,,,
+950,Summum Prime Boutique Hotel,5.0,,,
+951,ICON Rosetó,5.0,39.5719363,2.6494001,"Icon Rosetó, 6, Carrer de Can Campaner, el Call, Canavall, Palma, Illes Balears, 07003, España"
+952,Hotel Morlans & Morlans Garden & Suites,3.0,,,
+953,Inturotel Cala Azul Park & Esmeralda Park,3.0,,,
+954,Can Bordoy Gran House & Garden,5.0,,,
+955,Protur Naisa Palma,4.0,39.5743202,2.6421792,"Naisa, carrer de Simó Ballester, Canavall, Palma, Illes Balears, 07011, España"
+956,Hotel Creu de Tau Art & Spa,5.0,,,
+957,La Santamaría Apartamentos,3.0,,,
+958,Yartan Boutique Hotel,4.0,,,
+959,Petit Hotel Sant Miquel,4.0,,,
+960,Hotel The Place,4.0,,,
+961,Sol i Vida,4.0,,,
+962,Eques Petit Resort,2.0,,,
+963,Protur Bonamar,4.0,,,
+964,Finca Serena,5.0,39.5884695,2.9469023,"Hotel Finca Serena, 3, Camí de sa Font des Puig Molto, Montuïri, Pla de Mallorca, Illes Balears, 07230, España"
+965,Fil Suites,5.0,,,
+966,Forum Boutique Hotel & Spa,4.0,,,
+967,Mar Salada Apartments,5.0,,,
+968,Som Ars Magna Bleisure Hotel,4.0,,,
+969,Cala Morlanda Estudios,3.0,,,
+970,YourHouse Port,1.0,,,
+971,Hotel El Llorenc Parc De La Mar,5.0,,,
+972,Ca Sa Tieta,3.0,,,
+973,Hotel Soller Plaza,4.0,,,
+974,Zafiro Palace Andratx,5.0,,,
+975,Seasun Aniram,4.0,,,
+976,INNER Kompas Studios,3.0,,,
+977,THB Gran Bahía Apartments,3.0,,,
+978,Terreno Studios,4.0,,,
+979,Aubamar Suites & Spa,5.0,39.5170176,2.7481895,"Aubamar Suites & Spa, 17, carrer de les Canyes, Les Meravelles, Palma, Illes Balears, 07600, España"
+980,Hotel Rocamarina,4.0,,,
+981,Mariner Club Apartments,3.0,,,
+982,Grupotel Playa Camp de Mar,4.0,,,
+983,Hotel Nou Baleares,4.0,39.5749964,2.9922049,"Es Figueral nou, Ma-3220, Montuïri, Pla de Mallorca, Illes Balears, 07199, España"
+984,Lluna Aqua Hotel,4.0,,,
+985,Hotel Ynaira,5.0,39.6495185,3.1113740,"Ynaira, carrer Major, Ariany, Pla de Mallorca, Illes Balears, 07529, España"
+986,Hostal Beijuan,2.0,,,
+987,Hostal Residencia San Francisco,3.0,,,
+988,Palacio Can Marqués,5.0,,,
+989,Senda Caimari Hotel,1.0,,,
+990,Ses Cases Noves Finca,3.0,,,
+991,Beach Inn,1.0,,,
+992,New Art Hostel Albergue Juvenil,1.0,,,
+993,Casa Galileo,1.0,,,
+994,Edificio PrÍncipe,1.0,,,
+995,Sofia Alcúdia Beach,4.0,,,
+996,Samaritana Suites,4.0,39.5701889,2.6531635,"Samaritana Suites, 2, carrer del Pes de la Farina, el Call, Canamunt, Palma, Illes Balears, 07001, España"
+997,The Boc Suites,4.0,,,
+998,Hotel Sabina & Suites,4.0,,,
