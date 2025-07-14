@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-API_KEY="AIzaSyBZOjgQvSzAszDMqsmDnRK0sTrPXIrTEEs"
+API_KEY=""
 
 def geocode_hotel(name):
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
